@@ -1,4 +1,4 @@
-![Cover](assets/cover.png)
+![Cover](TrappedIon-Lab%20cover.png)
 
 # TrappedIon-Lab 🪤⚛️
 
